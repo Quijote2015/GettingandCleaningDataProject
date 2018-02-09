@@ -9,3 +9,9 @@ Merges the two datasets
 Converts the activity and subject columns into factors
 Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 The end result is shown in the file tidy.txt.
+
+This repository contains the following files:
+
+tidy_data.txt, which contains the data set.
+CodeBook.md, the code book, which describes the contents of the data set (data, variables and transformations used to generate the data).
+run_analysis.R, the R script that was used to create the data set
